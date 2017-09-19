@@ -6,3 +6,7 @@ I've spent most my younger years (from 21 to 40) doing Network Desktop Support f
 Best Wishes to All
 
 Harry NutSak
+
+Added more about the reason I'm on this site.
+& Committed the changes
+
